@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Report a software error or unexpected behavior.
-labels: ["🔴 priority: high", "🟡 status: investigation"]
+labels: ["🔵 priority: medium", "🟡 status: triage"]
 body:
   - type: markdown
     attributes:
