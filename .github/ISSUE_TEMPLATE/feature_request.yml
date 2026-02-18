@@ -1,0 +1,21 @@
+name: ✨ Feature Request
+description: Suggest an idea or improvement for this project.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Describe the Request
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: problem-solved
+    attributes:
+      label: Problem Statement
+      description: Is your feature request related to a problem? Please describe.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any alternative solutions or features you've considered.
