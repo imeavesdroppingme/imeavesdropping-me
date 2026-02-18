@@ -5,6 +5,10 @@ Welcome to the official support portal. This repository is dedicated exclusively
 
 ---
 
+### 💬 Where to post?
+* **Got a question or need help?** Start a [Discussion](link-alle-tue-discussions).
+* **Found a bug or have a specific request?** Open an [Issue](link-alle-tue-issues).
+
 ### 🚀 How to Open a Ticket
 To request support or report an issue, please follow these steps:
 
