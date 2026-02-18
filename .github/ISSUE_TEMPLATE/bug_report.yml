@@ -31,8 +31,10 @@ body:
     attributes:
       label: Expected Behavior
       description: What did you expect to happen?
-  - type: screenshots
+  - type: textarea
     id: visual-proof
     attributes:
       label: Screenshots or Logs
       description: Drag and drop images or paste error logs here.
+    validations:
+      required: false
